@@ -2,7 +2,7 @@
     "desired_caps": {
         "platformName": "Android",
         "deviceName": "<your device name>",
-        "udid": "<your device udid>",
+        "udid": "127.0.0.1:7555",
         "noReset": "false",
         "automationName": "UiAutomator2",
         "appPackage": "com.appsflyer.androidsampleapp",
